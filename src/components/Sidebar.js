@@ -11,7 +11,7 @@ const Sidebar = () => {
             src={AboutImg}
             alt="profile"
           />
-          <h2 className="md:my-2">Maurice Nganga</h2>
+          <h2 className="md:my-2">James Karanja</h2>
           <span className="text-slate-400">Available for work</span>
         </section>
         <section className="">

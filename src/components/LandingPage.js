@@ -13,16 +13,16 @@ const LandingPage = () => {
         />
         <article className="p-5">
           <h1 className="font-bold text-2xl md:text-5xl mb-2 text-white relative">
-            Maurice <span className=" text-title">Nganga</span>
+            James <span className=" text-title">Karanja</span>
           </h1>
           <div className="font-bold text-white text-2xl md:text-2xl relative">
             I'm a{" "}
             <Typewriter
               words={[
-                "FullStack Developer",
-                "Freelancer",
-                "Writer",
-                "Mobile Developer",
+                "cloud engineer.",
+                "devops engineer.",
+                "software developer.",
+                "learner.",
               ]}
               loop={Infinity}
               cursor

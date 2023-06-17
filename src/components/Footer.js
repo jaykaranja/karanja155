@@ -21,7 +21,7 @@ const Footer = () => {
             <MdPhone size={"1.5rem"} />
           </div>
           {"  "}
-          (+254) 715 018 410
+          (+254) 791 525 289
         </article>
         <article className="flex items-center flex-col gap-3">
           {" "}
@@ -29,14 +29,14 @@ const Footer = () => {
             <MdSend size={"1.5rem"} />
           </div>
           {"  "}
-          mauricenganga41@gmail.com
+          mainakaranja2001@gmail.com
         </article>
       </section>
       <hr className="hidden sm:block container mx-auto  border-gray-600" />
       <section className="flex flex-col lg:flex-row gap-2 container items-center mx-auto justify-between  p-2 sm:p-5">
         <article className="flex gap-8">
           <a
-            href={`https://twitter.com/MauriceNganga5`}
+            href={`https://twitter.com/jaykaranja`}
             target="_blank"
             rel="noreferrer"
           >
@@ -45,7 +45,7 @@ const Footer = () => {
             </div>
           </a>
           <a
-            href={`https://github.com/moryno/`}
+            href={`https://github.com/jaykaranja/`}
             target="_blank"
             rel="noreferrer"
           >
@@ -54,7 +54,7 @@ const Footer = () => {
             </div>
           </a>
           <a
-            href={`https://www.linkedin.com/in/mauricenganga`}
+            href={`https://www.linkedin.com/in/james-maina-8b07661b9`}
             target="_blank"
             rel="noreferrer"
           >
@@ -64,7 +64,7 @@ const Footer = () => {
           </a>
         </article>
         <p>
-          Copyright © {year} Maurice Nganga, all rights reserved. Design by{" "}
+          Copyright © {year} James Karanja, all rights reserved. Design by{" "}
           <span className="text-title cursor-pointer ">
             <a href={`#about`}>Maurice</a>
           </span>
